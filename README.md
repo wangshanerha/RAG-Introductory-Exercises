@@ -6,7 +6,7 @@
 
 ## 1 主要工作
 
-![image-20241031205504636](C:/Users/wangshaner/AppData/Roaming/Typora/typora-user-images/image-20241031205504636.png)
+![work](work.png)
 
 实线是已经完成的，虚线是可以扩展的。
 
